@@ -35,7 +35,7 @@ Auto Turret Fired Successfully
 Time: {current_time}
 """
 
-    url = f"https://api.telegram.org/bot8057290238:AAGg4KnvtIou4jfa6Kmo-8d-663KmUhY3cE/sendMessage"
+    url = f"https://api.telegram.org//sendMessage"
 
     data = {
         "chat_id": 8013272467,
